@@ -1,0 +1,9 @@
+{
+  "name": "FizzBuzz",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
